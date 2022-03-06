@@ -1,6 +1,12 @@
 
 ## Gain Solutions - Code Challenge
 
+
+* Default api base url: http://127.0.0.1:8000/api
+
+
+Participant: 
+
 * Code By: Md Hasan Ali
 * email: hasan.bubt.40@gmail.com
 * mobile: 01779295962
